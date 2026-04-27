@@ -1,0 +1,10 @@
+Gene_Family,Biological_Function,Ind_Prevalence_%,Non_Ind_Prevalence_%,p_value
+MGYG000211034_00116,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase",0.0,36.17,3.0074379897544044e-13
+MGYG000259779_00903,Sensor histidine kinase RcsC,22.67,70.21,3.1568656504995513e-09
+MGYG000211034_01500,Cobalamin import system permease protein BtuC,50.0,91.49,7.881127296890035e-08
+MGYG000259779_01487,Vitamin B12 import ATP-binding protein BtuD,8.72,42.55,3.423178262041139e-07
+MGYG000155887_00579,Vitamin B12-binding protein,50.0,89.36,5.904119664061448e-07
+MGYG000259779_01153,ATP synthase subunit c,93.02,61.7,6.326908881887881e-07
+MGYG000171336_01359,Polyferredoxin protein MvhB,81.4,44.68,1.6321731863554444e-06
+MGYG000190668_00503,Beta-barrel assembly-enhancing protease,12.21,42.55,1.148651717654881e-05
+MGYG000277122_01361,Vitamin B12 import ATP-binding protein BtuD,70.35,34.04,1.3166323651880938e-05
