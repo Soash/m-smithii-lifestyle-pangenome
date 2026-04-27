@@ -80,7 +80,7 @@ All primary genomic metadata and filtering metrics are available in `sup/Supplem
 .
 ├── Fig_1_v2.png                                # Workflow
 ├── Fig_2.png                                   # Pangenome Structure
-├── Fig_3_v2.png                                # Phylogenic Tree
+├── Fig_3_v2.png                                # Phylogenetic Tree
 ├── README.md                                   # Project documentation
 ├── .gitignore                                  # Git ignore file
 └── sup/                                        # Supplementary files and data
