@@ -68,7 +68,7 @@ To reproduce the phylogenetic visualizations discussed in the paper:
 
 ## Data Availability
 
-All primary genomic metadata and filtering metrics are available in `sup/Supplementary_Table_1_MAG_Metrics.csv`. Specific annotated gene hits used to evaluate structural variation are located in `sup/Final_annotated_lifestyle_genes_filtered.csv`. You can read the full current draft of the manuscript [here](https://docs.google.com/document/d/1rfBc7KQZMjUUAjXobXgQXsQ8ZP_RKd8d/edit).
+All primary genomic metadata and filtering metrics are available in `sup/Supplementary_Table_1_MAG_Metrics.csv`. Specific annotated gene hits used to evaluate structural variation are located in `sup/Final_annotated_lifestyle_genes_filtered.csv`. You can read the full current draft of the manuscript [here](#).
 
 
 ## Repository Structure
