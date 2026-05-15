@@ -1,8 +1,5 @@
 # Host Industrialization Drives Dietary-Dependent Structural Variation and Gene Shedding in the Human Gut Archaeon *Methanobrevibacter smithii*
 
-[![Draft Manuscript](https://img.shields.io/badge/Manuscript-Google_Docs-blue?logo=googledocs)](https://docs.google.com/document/d/1rfBc7KQZMjUUAjXobXgQXsQ8ZP_RKd8d/edit)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-ZKFKmX9j_sWk19xfGzZq70B_CoDLOGp?usp=drive_link)
-
 This repository contains the code, datasets, and supplementary materials for the manuscript analyzing how host industrialization and diet influence the genomic structural variation and accessory genome of *Methanobrevibacter smithii*, the dominant archaeal keystone species in the human gut.
 
 ## Project Overview
@@ -93,7 +90,8 @@ All primary genomic metadata and filtering metrics are available in `sup/Supplem
     └── Supp_Fig_2_MAG_Quality.png              # Supplementary plot of MAG completeness and contamination
 ```
 
-
+## 👨‍💻 Author
+Md Abu Sadat Soash | https://www.linkedin.com/in/soash-sadat/ | soash.sadat@gmail.com
 
 
 
