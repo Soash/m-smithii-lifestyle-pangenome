@@ -40,7 +40,7 @@ To isolate the effects of host industrialization and minimize confounding dietar
 Genomes from transitional economies, regions with distinct Mediterranean or Nordic dietary patterns, and those with ambiguous metadata were excluded from the primary analysis to prevent lifestyle admixture from attenuating statistical signals.
 
 <p align="center">
-  <img src="Fig_1_v2.png" alt="Figure 1: Bioinformatics Pipeline Workflow" width="85%" />
+  <img src="fig/Fig_1_v2.png" alt="Figure 1: Bioinformatics Pipeline Workflow" width="85%" />
 </p>
 
 **Figure 1: Bioinformatics Pipeline Workflow.** A systematic overview of the analytical framework: (1) Retrieval of *M. smithii* MAGs from the MGnify UHGG catalog (v2.0.2) with strict CheckM quality filtering (>90% completeness, <5% contamination); (2) Cohort stratification into Industrialized (US/UK, $n=172$) and Non-Industrialized (Peru/Fiji/Madagascar, $n=47$); (3) Graph-based pangenome construction and partitioning via PPanGGOLiN; (4) Persistent genome core alignment and FastTree phylogenomic reconstruction; and (5) Accessory gene statistical enrichment via Fisher's Exact Test with False Discovery Rate (FDR) correction.
@@ -69,8 +69,8 @@ Functional annotations for gene families exhibiting significant lifestyle specif
 ### 3.1 Pangenomic and Phylogenetic Separation
 
 <p align="center">
-  <img src="Fig_2.png" alt="Figure 2: Pangenome Partitioning" width="48%" />
-  <img src="Fig_3_v2.png" alt="Figure 3: Phylogenomic Analysis" width="48%" />
+  <img src="fig/Fig_2.png" alt="Figure 2: Pangenome Partitioning" width="48%" />
+  <img src="fig/Fig_3_v2.png" alt="Figure 3: Phylogenomic Analysis" width="48%" />
 </p>
 
 **Figure 2 (Left): *M. smithii* Pangenome Structure ($n=219$).** Distribution of gene families across the persistent, shell, and cloud partitions. The persistent genome comprises 13.5% (1,400 families), while the accessory genome is overwhelmingly dominant, split into the shell genome (9.1%, 944 families) and a massive cloud genome (77.4%, 8,047 families).
@@ -89,16 +89,16 @@ Statistical enrichment analysis of the accessory genome identified highly specif
 
 **Table 1: Statistically Significant Lifestyle-Associated Accessory Gene Biomarkers in *M. smithii*.**
 
-| Gene Family ID | Biological Function / Annotation | Industrialized (%) ($n=172$) | Non-Industrialized (%) ($n=47$) | Raw $p$-value | FDR $q$-value | Functional Impact |
+| Gene Family ID | Biological Function / Annotation | <nobr>Industrialized (%)</nobr><br>($n=172$) | <nobr>Non-Industrialized (%)</nobr><br>($n=47$) | <nobr>Raw&nbsp;*p*-value</nobr> | <nobr>FDR&nbsp;*q*-value</nobr> | Functional Impact |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- |
-| `MGYG000211034_00116` | 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase | 0.00% | 36.17% | $3.01 \times 10^{-13}$ | $9.23 \times 10^{-10}$ | Complete loss of Lysine synthesis in Western diets |
-| `MGYG000259779_00903` | Sensor histidine kinase RcsC | 22.67% | 70.21% | $3.16 \times 10^{-9}$ | $3.23 \times 10^{-6}$ | Depletion of environmental sensing machinery |
-| `MGYG000211034_01500` | Cobalamin import system permease protein BtuC | 50.00% | 91.49% | $7.88 \times 10^{-8}$ | $5.36 \times 10^{-5}$ | Loss of high-affinity Vitamin B12 permease |
-| `MGYG000259779_01487` | Vitamin B12 import ATP-binding protein BtuD | 8.72% | 42.55% | $3.42 \times 10^{-7}$ | $1.75 \times 10^{-4}$ | Loss of active Vitamin B12 import ATPase |
-| `MGYG000155887_00579` | Vitamin B12-binding protein | 50.00% | 89.36% | $5.90 \times 10^{-7}$ | $2.41 \times 10^{-4}$ | Depletion of extracellular cobalamin capture |
-| `MGYG000259779_01153` | ATP synthase subunit c | 93.02% | 61.70% | $6.33 \times 10^{-7}$ | $2.41 \times 10^{-4}$ | Enrichment in energy coupling & ATP generation |
-| `MGYG000171336_01359` | Polyferredoxin protein MvhB | 81.40% | 44.68% | $1.63 \times 10^{-6}$ | $2.83 \times 10^{-4}$ | Methanogenesis electron bifurcation optimization |
-| `MGYG000190668_00503` | Beta-barrel assembly-enhancing protease | 12.21% | 42.55% | $1.15 \times 10^{-5}$ | $1.76 \times 10^{-3}$ | Depletion of membrane assembly machinery |
+| `MGYG000211034_00116` | 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase | 0.00% | 36.17% | <nobr>3.01&nbsp;×&nbsp;10<sup>-13</sup></nobr> | <nobr>9.23&nbsp;×&nbsp;10<sup>-10</sup></nobr> | Complete loss of Lysine synthesis in Western diets |
+| `MGYG000259779_00903` | Sensor histidine kinase RcsC | 22.67% | 70.21% | <nobr>3.16&nbsp;×&nbsp;10<sup>-9</sup></nobr> | <nobr>3.23&nbsp;×&nbsp;10<sup>-6</sup></nobr> | Depletion of environmental sensing machinery |
+| `MGYG000211034_01500` | Cobalamin import system permease protein BtuC | 50.00% | 91.49% | <nobr>7.88&nbsp;×&nbsp;10<sup>-8</sup></nobr> | <nobr>5.36&nbsp;×&nbsp;10<sup>-5</sup></nobr> | Loss of high-affinity Vitamin B12 permease |
+| `MGYG000259779_01487` | Vitamin B12 import ATP-binding protein BtuD | 8.72% | 42.55% | <nobr>3.42&nbsp;×&nbsp;10<sup>-7</sup></nobr> | <nobr>1.75&nbsp;×&nbsp;10<sup>-4</sup></nobr> | Loss of active Vitamin B12 import ATPase |
+| `MGYG000155887_00579` | Vitamin B12-binding protein | 50.00% | 89.36% | <nobr>5.90&nbsp;×&nbsp;10<sup>-7</sup></nobr> | <nobr>2.41&nbsp;×&nbsp;10<sup>-4</sup></nobr> | Depletion of extracellular cobalamin capture |
+| `MGYG000259779_01153` | ATP synthase subunit c | 93.02% | 61.70% | <nobr>6.33&nbsp;×&nbsp;10<sup>-7</sup></nobr> | <nobr>2.41&nbsp;×&nbsp;10<sup>-4</sup></nobr> | Enrichment in energy coupling & ATP generation |
+| `MGYG000171336_01359` | Polyferredoxin protein MvhB | 81.40% | 44.68% | <nobr>1.63&nbsp;×&nbsp;10<sup>-6</sup></nobr> | <nobr>2.83&nbsp;×&nbsp;10<sup>-4</sup></nobr> | Methanogenesis electron bifurcation optimization |
+| `MGYG000190668_00503` | Beta-barrel assembly-enhancing protease | 12.21% | 42.55% | <nobr>1.15&nbsp;×&nbsp;10<sup>-5</sup></nobr> | <nobr>1.76&nbsp;×&nbsp;10<sup>-3</sup></nobr> | Depletion of membrane assembly machinery |
 
 ### 3.3 Shifts in Nutrient Scavenging and Methanogenesis
 
@@ -155,7 +155,7 @@ These findings highlight the limitations of relying solely on species-level 16S 
 | :--- | :--- |
 | [`Supplementary_Table_1_MAG_Metrics.csv`](file:///sup/Supplementary_Table_1_MAG_Metrics.csv) | CheckM completeness, contamination, genome length, GC%, and country metadata for all 219 MAGs |
 | [`Final_annotated_lifestyle_genes_filtered.csv`](file:///sup/Final_annotated_lifestyle_genes_filtered.csv) | Annotated accessory gene families with prevalence, raw $p$-values, and functional annotations |
-| [`Galaxy26-[FASTTREE on dataset 25_tree.nhx].nhx`](file:///sup/Galaxy26-[FASTTREE%20on%20dataset%2025_tree.nhx].nhx) | FastTree-generated Newick/NHX phylogenetic tree inferred from the persistent core genome |
+| [`m_smithii_persistent_tree.nhx`](file:///sup/m_smithii_persistent_tree.nhx) | FastTree-generated Newick/NHX phylogenetic tree inferred from the persistent core genome |
 | [`itol_color_strip.txt`](file:///sup/itol_color_strip.txt) | iTOL annotation strip defining the Industrialized (Red) vs. Non-Industrialized (Blue) cohorts |
 | [`itol_heatmap.txt`](file:///sup/itol_heatmap.txt) | iTOL annotation matrix for accessory gene presence/absence heatmap visualization |
 
@@ -172,7 +172,7 @@ The analysis pipeline is configured for single-click execution in Google Colab:
 
 * **Automated Environment:** Package dependencies and binary tools (including Conda and statistical libraries) are installed automatically upon execution via `condacolab`.
 * **Phylogenetic Reproduction (iTOL):**
-  1. Upload `Galaxy26-[FASTTREE on dataset 25_tree.nhx].nhx` to the [Interactive Tree Of Life (iTOL)](https://itol.embl.de/).
+  1. Upload `sup/m_smithii_persistent_tree.nhx` to the [Interactive Tree Of Life (iTOL)](https://itol.embl.de/).
   2. Drag and drop `itol_color_strip.txt` to display host cohort stratification.
   3. Drag and drop `itol_heatmap.txt` to render the presence/absence profiles of lifestyle biomarker genes.
 
