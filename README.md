@@ -5,7 +5,8 @@
 [![Dataset](https://img.shields.io/badge/UHGG-v2.0.2-green)](https://www.ebi.ac.uk/metagenomics/)
 
 **Md Abu Sadat Soash**  
-*Department of Genetic Engineering and Biotechnology, Shahjalal University of Science and Technology, Sylhet, Bangladesh*  
+*Department of Genetic Engineering and Biotechnology* <br>
+*Shahjalal University of Science and Technology, Sylhet, Bangladesh*  
 *Email:* [soash.sadat@gmail.com](mailto:soash.sadat@gmail.com)
 
 ---
