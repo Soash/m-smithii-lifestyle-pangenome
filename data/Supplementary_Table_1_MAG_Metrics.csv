@@ -1,0 +1,220 @@
+Genome,Host_Lifestyle,Country,Continent,Completeness,Contamination,Length,N_contigs,N50,GC_content
+MGYG000002446,Industrialized,United States,North America,100.0,0.0,1926345,16,240345,30.29
+MGYG000008418,Non-Industrialized,Fiji,Oceania,100.0,0.13,1744052,23,164533,31.09
+MGYG000010360,Industrialized,United States,North America,93.26,1.66,1596396,218,9710,31.33
+MGYG000011558,Industrialized,United Kingdom,Europe,98.13,1.6,1703652,201,14924,31.33
+MGYG000012090,Industrialized,United States,North America,99.73,0.0,1791997,66,73601,31.25
+MGYG000012300,Non-Industrialized,Fiji,Oceania,100.0,0.0,1724941,37,78801,31.15
+MGYG000013996,Industrialized,United States,North America,99.2,0.8,1992157,56,77936,30.22
+MGYG000014408,Industrialized,United Kingdom,Europe,96.53,1.6,1853118,390,6488,30.72
+MGYG000015452,Industrialized,United States,North America,97.6,1.07,1897310,174,15769,31.44
+MGYG000015973,Industrialized,United Kingdom,Europe,96.0,0.0,1494293,72,27405,31.55
+MGYG000016464,Industrialized,United States,North America,100.0,0.0,1850072,33,92549,30.98
+MGYG000016865,Non-Industrialized,Fiji,Oceania,90.4,0.0,1521626,292,6804,31.64
+MGYG000016874,Industrialized,United Kingdom,Europe,100.0,0.8,1706815,162,15775,31.36
+MGYG000017068,Non-Industrialized,Peru,South America,94.89,4.8,2111263,312,8048,30.18
+MGYG000020111,Industrialized,United Kingdom,Europe,98.67,3.73,1776792,178,15614,31.09
+MGYG000020203,Industrialized,United Kingdom,Europe,99.2,0.0,1678621,88,32818,31.35
+MGYG000020311,Industrialized,United States,North America,100.0,0.8,1776683,22,111211,31.05
+MGYG000021299,Industrialized,United States,North America,100.0,0.0,1886020,58,90573,30.27
+MGYG000021636,Industrialized,United States,North America,97.2,0.0,1745898,69,52249,31.28
+MGYG000026828,Industrialized,United States,North America,100.0,0.0,1826904,29,100353,31.03
+MGYG000028479,Industrialized,United Kingdom,Europe,100.0,0.0,1924783,29,110034,30.22
+MGYG000028770,Industrialized,United Kingdom,Europe,99.2,0.0,1787534,13,215240,31.01
+MGYG000029971,Industrialized,United Kingdom,Europe,100.0,0.0,1805946,28,154149,31.0
+MGYG000030132,Industrialized,United Kingdom,Europe,96.4,2.4,2142137,449,6387,31.23
+MGYG000033221,Industrialized,United Kingdom,Europe,99.6,0.0,1751223,73,43041,30.43
+MGYG000035110,Industrialized,United Kingdom,Europe,100.0,0.0,1783607,13,267846,31.09
+MGYG000036079,Industrialized,United States,North America,99.2,1.6,1767378,112,24981,31.31
+MGYG000036892,Industrialized,United States,North America,100.0,0.0,1800042,20,168822,31.1
+MGYG000039022,Industrialized,United Kingdom,Europe,100.0,0.0,1843026,23,131206,30.33
+MGYG000040271,Non-Industrialized,Fiji,Oceania,100.0,0.0,1728223,18,235765,31.23
+MGYG000041110,Industrialized,United States,North America,100.0,0.0,1731575,34,81881,31.2
+MGYG000043343,Industrialized,United Kingdom,Europe,99.73,0.0,1850838,57,53407,30.23
+MGYG000043699,Industrialized,United States,North America,92.8,1.97,1457388,208,9172,31.16
+MGYG000044513,Industrialized,United Kingdom,Europe,99.73,3.72,1803785,168,17401,31.1
+MGYG000044768,Industrialized,United Kingdom,Europe,94.13,0.0,1560919,84,24934,30.78
+MGYG000046423,Industrialized,United States,North America,94.13,4.8,1989641,276,9106,31.15
+MGYG000048860,Industrialized,United States,North America,93.6,0.0,1442979,10,220827,31.31
+MGYG000049548,Industrialized,United States,North America,96.0,3.2,1952070,63,81915,30.42
+MGYG000050570,Non-Industrialized,Fiji,Oceania,100.0,0.0,1874639,63,75317,31.08
+MGYG000051095,Industrialized,United States,North America,100.0,0.0,1978848,37,96923,30.24
+MGYG000052992,Industrialized,United Kingdom,Europe,95.2,0.0,1581401,17,119907,31.24
+MGYG000055585,Industrialized,United Kingdom,Europe,100.0,0.0,1816640,14,182127,30.91
+MGYG000055933,Industrialized,United States,North America,100.0,0.06,1810330,173,16631,30.45
+MGYG000057220,Industrialized,United Kingdom,Europe,100.0,0.0,1745407,10,262833,31.18
+MGYG000057281,Industrialized,United States,North America,100.0,0.0,1833389,28,136449,31.01
+MGYG000064111,Industrialized,United States,North America,98.8,0.0,1794816,144,19664,30.65
+MGYG000065144,Industrialized,United States,North America,100.0,0.8,1821529,118,32769,31.11
+MGYG000069392,Industrialized,United Kingdom,Europe,100.0,0.0,1734512,5,517773,31.12
+MGYG000069515,Non-Industrialized,Madagascar,Africa,93.6,0.0,1462007,194,9879,31.78
+MGYG000070702,Industrialized,United Kingdom,Europe,100.0,0.0,1772187,15,241541,31.07
+MGYG000071712,Industrialized,United States,North America,100.0,0.0,1859018,41,108549,31.06
+MGYG000072152,Non-Industrialized,Fiji,Oceania,100.0,0.0,1710723,22,191059,31.26
+MGYG000074340,Industrialized,United States,North America,96.0,0.0,1776625,55,41460,30.48
+MGYG000075130,Non-Industrialized,Peru,South America,98.4,0.0,1843965,143,19698,30.42
+MGYG000076231,Industrialized,United States,North America,92.8,0.0,1713264,33,139646,31.13
+MGYG000076617,Industrialized,United States,North America,100.0,0.0,1770996,14,290493,31.01
+MGYG000076915,Industrialized,United States,North America,99.2,0.0,1972498,44,133694,30.26
+MGYG000077521,Industrialized,United States,North America,100.0,0.0,1766870,35,68520,31.12
+MGYG000077769,Industrialized,United Kingdom,Europe,100.0,0.0,1895936,50,71755,30.23
+MGYG000078636,Industrialized,United States,North America,91.33,0.04,1488200,227,8382,31.7
+MGYG000078980,Industrialized,United States,North America,100.0,0.0,1802235,19,135775,31.13
+MGYG000079592,Industrialized,United States,North America,100.0,0.0,1818239,108,43698,31.15
+MGYG000080468,Industrialized,United States,North America,100.0,0.0,1760094,55,51535,31.05
+MGYG000081171,Non-Industrialized,Fiji,Oceania,100.0,0.0,1742822,33,93359,31.28
+MGYG000083008,Industrialized,United States,North America,100.0,0.0,1781449,24,165530,31.02
+MGYG000084815,Industrialized,United States,North America,100.0,3.2,1802322,56,63884,30.44
+MGYG000084827,Industrialized,United States,North America,91.2,0.0,1453616,31,74854,30.85
+MGYG000085105,Industrialized,United Kingdom,Europe,100.0,0.4,1711697,14,231124,31.22
+MGYG000085260,Industrialized,United Kingdom,Europe,98.4,1.6,1722668,172,17495,31.17
+MGYG000089787,Non-Industrialized,Madagascar,Africa,97.6,0.0,1725435,205,13256,31.61
+MGYG000090167,Industrialized,United Kingdom,Europe,98.4,0.0,1588324,67,46253,31.3
+MGYG000092358,Industrialized,United States,North America,97.2,0.0,1807214,118,24945,31.11
+MGYG000094772,Industrialized,United States,North America,96.8,0.8,1755022,43,59367,30.44
+MGYG000096003,Industrialized,United Kingdom,Europe,100.0,0.0,1743433,12,494917,31.01
+MGYG000097032,Industrialized,United States,North America,100.0,0.0,1820770,134,19451,30.65
+MGYG000098136,Industrialized,United States,North America,96.09,0.0,1646872,331,6086,31.64
+MGYG000098717,Industrialized,United Kingdom,Europe,100.0,0.0,1754264,34,63216,31.09
+MGYG000101902,Industrialized,United States,North America,100.0,0.0,1768738,46,90801,31.09
+MGYG000103759,Industrialized,United States,North America,100.0,0.0,1782572,44,103481,31.12
+MGYG000104527,Industrialized,United Kingdom,Europe,100.0,0.8,1917635,24,176110,31.07
+MGYG000105396,Industrialized,United Kingdom,Europe,95.2,0.0,1655007,68,43350,30.64
+MGYG000106887,Industrialized,United States,North America,100.0,0.0,1889378,47,120002,30.27
+MGYG000109057,Industrialized,United States,North America,97.73,0.0,1783456,133,18484,31.25
+MGYG000111109,Industrialized,United States,North America,100.0,0.0,1707624,21,186742,31.19
+MGYG000111927,Industrialized,United States,North America,100.0,0.0,1772900,45,60665,30.47
+MGYG000118221,Industrialized,United States,North America,100.0,0.0,1927088,55,52780,30.32
+MGYG000119092,Industrialized,United States,North America,100.0,0.0,1975004,47,98370,30.28
+MGYG000119275,Industrialized,United Kingdom,Europe,99.2,0.0,1659775,70,44743,31.33
+MGYG000124623,Industrialized,United States,North America,100.0,0.0,1795939,67,44620,31.29
+MGYG000125756,Non-Industrialized,Peru,South America,99.2,2.11,1818720,197,13212,30.41
+MGYG000128033,Non-Industrialized,Fiji,Oceania,99.2,1.6,1628368,48,60464,31.4
+MGYG000129711,Non-Industrialized,Peru,South America,95.2,0.0,1451289,58,44573,30.93
+MGYG000129903,Industrialized,United States,North America,97.2,0.04,1583745,267,7704,31.59
+MGYG000131047,Industrialized,United Kingdom,Europe,100.0,0.0,1829437,33,87397,31.0
+MGYG000132638,Industrialized,United States,North America,100.0,0.0,1793759,28,156145,31.1
+MGYG000132663,Industrialized,United Kingdom,Europe,100.0,0.0,1797840,14,176285,31.1
+MGYG000138393,Industrialized,United States,North America,100.0,0.0,1765161,29,106653,31.04
+MGYG000139577,Industrialized,United States,North America,100.0,0.0,1765277,33,78783,30.92
+MGYG000140238,Industrialized,United States,North America,100.0,0.0,1732540,75,40999,31.16
+MGYG000141612,Non-Industrialized,Fiji,Oceania,98.4,1.6,1729608,31,114999,31.14
+MGYG000141967,Non-Industrialized,Fiji,Oceania,100.0,0.0,1728742,35,84662,31.14
+MGYG000144287,Non-Industrialized,Peru,South America,98.0,2.4,1748930,354,6935,30.4
+MGYG000144853,Industrialized,United States,North America,100.0,0.0,1732400,42,57063,31.22
+MGYG000144886,Industrialized,United States,North America,100.0,0.0,1750372,33,67799,31.14
+MGYG000146594,Industrialized,United Kingdom,Europe,100.0,0.0,1737927,38,112351,31.22
+MGYG000146880,Industrialized,United Kingdom,Europe,100.0,0.0,1677237,38,99246,31.14
+MGYG000148063,Industrialized,United States,North America,97.2,0.0,1847309,138,19354,31.27
+MGYG000149271,Industrialized,United Kingdom,Europe,100.0,0.0,1743760,33,109028,31.1
+MGYG000149733,Industrialized,United States,North America,100.0,0.0,1843202,25,102900,30.54
+MGYG000151331,Non-Industrialized,Fiji,Oceania,93.6,0.0,1623683,52,49452,31.31
+MGYG000151496,Non-Industrialized,Fiji,Oceania,99.2,0.0,1645229,20,110872,31.49
+MGYG000153023,Industrialized,United States,North America,100.0,0.8,1794702,43,147680,31.14
+MGYG000154144,Industrialized,United Kingdom,Europe,100.0,0.0,1731726,16,185485,31.05
+MGYG000155887,Industrialized,United States,North America,94.8,0.8,1649877,210,10252,30.57
+MGYG000155975,Non-Industrialized,Fiji,Oceania,100.0,0.8,1738858,68,52050,31.09
+MGYG000156538,Industrialized,United Kingdom,Europe,100.0,0.0,1718394,7,278359,31.31
+MGYG000158427,Industrialized,United States,North America,98.0,0.4,1698725,145,17869,31.12
+MGYG000161484,Non-Industrialized,Fiji,Oceania,92.27,1.64,1523423,252,8673,31.58
+MGYG000161545,Non-Industrialized,Madagascar,Africa,98.53,0.8,1968690,181,18274,31.25
+MGYG000164392,Industrialized,United States,North America,100.0,0.0,1724639,12,187663,31.14
+MGYG000164707,Industrialized,United States,North America,100.0,0.0,1723207,11,220390,31.05
+MGYG000165675,Industrialized,United Kingdom,Europe,100.0,0.0,1818657,65,44724,31.1
+MGYG000165842,Non-Industrialized,Peru,South America,100.0,0.0,1849077,72,46226,30.25
+MGYG000165892,Industrialized,United States,North America,100.0,0.8,1725973,74,41906,31.1
+MGYG000167296,Non-Industrialized,Fiji,Oceania,96.8,0.0,1598827,29,97362,31.46
+MGYG000167727,Industrialized,United Kingdom,Europe,100.0,0.0,1770837,27,115821,30.97
+MGYG000169867,Industrialized,United States,North America,100.0,0.0,1654417,14,139855,31.34
+MGYG000171336,Non-Industrialized,Fiji,Oceania,95.2,0.0,1623291,51,45078,31.36
+MGYG000171377,Industrialized,United Kingdom,Europe,99.6,0.0,1859484,134,21952,30.43
+MGYG000171518,Industrialized,United States,North America,100.0,0.0,1723753,26,89792,31.18
+MGYG000173677,Industrialized,United States,North America,100.0,0.0,1731088,8,293335,31.15
+MGYG000177358,Industrialized,United Kingdom,Europe,100.0,0.0,1771604,21,133238,30.48
+MGYG000177796,Industrialized,United States,North America,100.0,0.0,1736874,97,30209,31.26
+MGYG000182359,Industrialized,United States,North America,99.2,0.0,1797373,54,80226,31.13
+MGYG000182982,Industrialized,United States,North America,100.0,0.0,1776836,32,110521,31.06
+MGYG000183227,Non-Industrialized,Peru,South America,99.2,0.0,1864390,100,38340,30.22
+MGYG000184507,Industrialized,United Kingdom,Europe,100.0,0.0,1800988,23,209994,30.56
+MGYG000184621,Industrialized,United States,North America,96.0,0.0,1511484,70,31118,30.86
+MGYG000185271,Non-Industrialized,Fiji,Oceania,98.37,0.0,1541416,196,11555,31.51
+MGYG000185409,Industrialized,United States,North America,100.0,0.8,1697923,39,60741,31.23
+MGYG000186325,Industrialized,United States,North America,98.4,0.0,1843730,140,21690,30.65
+MGYG000187021,Industrialized,United Kingdom,Europe,100.0,0.0,1749125,29,92980,31.11
+MGYG000187448,Industrialized,United States,North America,100.0,0.0,1766722,20,123273,31.06
+MGYG000189287,Industrialized,United Kingdom,Europe,100.0,0.0,1718311,20,92046,31.13
+MGYG000190668,Non-Industrialized,Peru,South America,92.0,2.4,1838825,214,12420,30.41
+MGYG000195618,Industrialized,United States,North America,100.0,0.0,1776937,25,154633,31.11
+MGYG000197093,Non-Industrialized,Peru,South America,99.2,0.0,1837184,70,47915,30.23
+MGYG000198794,Industrialized,United States,North America,99.94,0.8,1973030,40,256349,30.45
+MGYG000199606,Industrialized,United States,North America,90.8,0.0,1560181,346,6225,31.53
+MGYG000200309,Non-Industrialized,Peru,South America,96.0,1.64,1739475,275,9532,30.41
+MGYG000205349,Industrialized,United States,North America,100.0,0.0,1848178,23,115380,30.44
+MGYG000206568,Industrialized,United States,North America,92.8,0.8,1564927,205,9423,31.3
+MGYG000207189,Non-Industrialized,Fiji,Oceania,100.0,0.0,1717289,54,53265,31.22
+MGYG000207681,Industrialized,United States,North America,100.0,0.0,1795087,27,141700,31.08
+MGYG000208729,Industrialized,United Kingdom,Europe,100.0,0.0,1906607,23,133512,30.25
+MGYG000209106,Industrialized,United States,North America,100.0,0.0,1830885,157,16615,30.8
+MGYG000209495,Industrialized,United States,North America,97.2,0.4,1791470,139,16898,30.72
+MGYG000210453,Industrialized,United States,North America,100.0,0.0,1714615,28,86981,31.35
+MGYG000211034,Non-Industrialized,Peru,South America,94.43,1.6,1595286,221,9959,30.49
+MGYG000215351,Non-Industrialized,Peru,South America,100.0,0.8,1773404,53,55007,30.42
+MGYG000215415,Industrialized,United States,North America,100.0,0.0,1772129,16,170860,31.0
+MGYG000215560,Industrialized,United States,North America,98.4,0.0,1674641,15,135437,30.67
+MGYG000218204,Industrialized,United Kingdom,Europe,99.2,0.53,1843355,210,11912,30.43
+MGYG000218712,Industrialized,United Kingdom,Europe,100.0,0.0,1835042,60,52646,30.42
+MGYG000220864,Industrialized,United States,North America,95.96,1.32,1591297,143,15422,31.33
+MGYG000221061,Industrialized,United Kingdom,Europe,97.33,0.8,1719870,277,8473,30.6
+MGYG000222303,Non-Industrialized,Fiji,Oceania,93.83,2.4,1520245,229,8643,31.63
+MGYG000222762,Industrialized,United States,North America,100.0,0.0,1766255,21,119043,31.07
+MGYG000223573,Non-Industrialized,Fiji,Oceania,99.66,1.33,1687393,98,29229,31.52
+MGYG000225232,Industrialized,United States,North America,100.0,0.0,1799569,64,46447,31.2
+MGYG000227504,Non-Industrialized,Fiji,Oceania,100.0,0.0,1587601,74,37605,31.48
+MGYG000227974,Industrialized,United Kingdom,Europe,100.0,0.0,1718491,4,757321,31.14
+MGYG000228598,Industrialized,United Kingdom,Europe,93.6,0.0,1379905,9,322264,31.38
+MGYG000228685,Industrialized,United States,North America,94.4,0.0,1577270,84,35260,31.48
+MGYG000229367,Industrialized,United States,North America,100.0,0.0,1908320,59,88895,31.05
+MGYG000230095,Non-Industrialized,Fiji,Oceania,100.0,0.8,1768385,26,123219,31.17
+MGYG000231575,Industrialized,United Kingdom,Europe,100.0,0.0,1766870,27,153815,31.0
+MGYG000233794,Non-Industrialized,Peru,South America,93.6,2.4,1854028,387,6042,30.09
+MGYG000236009,Industrialized,United States,North America,100.0,0.8,1910054,50,108845,30.29
+MGYG000241051,Industrialized,United States,North America,100.0,0.0,1916518,29,105098,30.34
+MGYG000242714,Industrialized,United Kingdom,Europe,100.0,0.0,1804129,10,233335,31.0
+MGYG000243473,Industrialized,United Kingdom,Europe,100.0,0.0,1833839,23,147602,31.11
+MGYG000243784,Industrialized,United Kingdom,Europe,92.0,0.0,1659792,22,129676,31.12
+MGYG000245862,Industrialized,United States,North America,100.0,0.0,1750122,22,111016,31.06
+MGYG000247375,Industrialized,United States,North America,91.64,0.0,1620654,188,12920,31.04
+MGYG000247410,Industrialized,United Kingdom,Europe,100.0,0.0,1896149,20,157461,30.3
+MGYG000247838,Non-Industrialized,Peru,South America,95.84,0.0,1689303,84,30859,30.71
+MGYG000248816,Industrialized,United States,North America,100.0,0.8,1782598,36,105517,31.1
+MGYG000249365,Industrialized,United Kingdom,Europe,100.0,0.0,1720646,36,97249,31.17
+MGYG000253943,Industrialized,United Kingdom,Europe,100.0,0.0,1760961,23,101412,30.45
+MGYG000255324,Non-Industrialized,Fiji,Oceania,91.02,1.07,1364848,152,14512,31.72
+MGYG000256335,Industrialized,United Kingdom,Europe,97.6,0.0,1794568,28,110864,30.42
+MGYG000256976,Industrialized,United States,North America,100.0,0.0,1747731,31,96612,31.17
+MGYG000258280,Non-Industrialized,Fiji,Oceania,96.8,4.5,1979329,393,6103,31.27
+MGYG000258922,Industrialized,United States,North America,100.0,0.0,1821071,21,109440,31.1
+MGYG000259779,Non-Industrialized,Fiji,Oceania,99.2,0.0,1744829,43,98839,31.23
+MGYG000260875,Industrialized,United Kingdom,Europe,99.6,0.0,1686078,61,52021,31.31
+MGYG000262691,Industrialized,United Kingdom,Europe,100.0,0.0,1746000,21,109748,31.03
+MGYG000264634,Industrialized,United Kingdom,Europe,100.0,0.0,1752475,32,104794,31.09
+MGYG000268896,Industrialized,United Kingdom,Europe,96.4,1.6,1660171,237,10275,31.36
+MGYG000268925,Industrialized,United States,North America,100.0,0.0,1753510,31,81983,31.02
+MGYG000270933,Industrialized,United States,North America,99.2,0.0,1595501,6,260504,31.37
+MGYG000271255,Non-Industrialized,Peru,South America,95.84,0.04,1759391,184,14107,30.34
+MGYG000271590,Industrialized,United States,North America,92.89,2.8,1627292,317,6049,31.37
+MGYG000272123,Industrialized,United Kingdom,Europe,99.2,0.0,1817585,37,170644,31.0
+MGYG000275978,Non-Industrialized,Peru,South America,97.6,0.0,1828364,48,63419,30.3
+MGYG000277122,Non-Industrialized,Fiji,Oceania,100.0,0.0,1714079,23,142884,31.15
+MGYG000277784,Industrialized,United States,North America,100.0,0.0,1764583,42,61558,31.05
+MGYG000278679,Industrialized,United States,North America,93.33,1.2,1671739,279,8321,31.1
+MGYG000279808,Industrialized,United States,North America,96.8,0.0,1786732,153,15581,31.19
+MGYG000280726,Industrialized,United Kingdom,Europe,99.2,0.0,1757695,19,181192,31.41
+MGYG000282089,Industrialized,United States,North America,94.4,0.8,1869210,45,94662,30.28
+MGYG000282960,Industrialized,United States,North America,99.6,0.0,1965064,40,99611,30.43
+MGYG000283016,Industrialized,United States,North America,100.0,0.0,1777699,34,88538,31.17
+MGYG000285411,Non-Industrialized,Peru,South America,100.0,0.0,1761530,36,75930,30.32
+MGYG000285559,Non-Industrialized,Madagascar,Africa,96.13,0.8,1718518,150,15614,31.4
+MGYG000286159,Industrialized,United Kingdom,Europe,100.0,0.0,1826690,11,292338,30.45
+MGYG000287104,Industrialized,United Kingdom,Europe,100.0,0.8,1815580,10,517152,31.31
+MGYG000288878,Industrialized,United States,North America,95.14,0.0,1767226,295,8156,31.38

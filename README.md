@@ -170,18 +170,26 @@ Statistical enrichment using Fisher's exact test with Benjamini-Hochberg FDR cor
 
 ```text
 m-smithii-lifestyle-pangenome/
-├── fig/                                                        # Publication-quality figures (300 DPI)
+├── data/                                                       # Curated datasets, cohorts & pangenome matrices
+│   ├── hq_m_smithii.tsv                                        # Quality-filtered M. smithii MAG metadata
+│   ├── industrialized_m_smithii.tsv                            # Industrialized cohort (UK/USA) MAG links
+│   ├── non_industrialized_m_smithii.tsv                        # Non-industrialized cohort (Fiji/Peru/Madagascar)
+│   ├── lifestyle_specific_genes.csv                            # Statistical gene association table
+│   ├── FINAL_annotated_lifestyle_genes_filtered.csv            # High-confidence lifestyle genes (FDR q < 0.05)
+│   ├── m_smithii_matrix/matrix.csv                             # Gene presence/absence matrix (n=221)
+│   ├── m_smithii_pangenome_out/partitions/                     # PPanGGOLiN core, shell & cloud gene sets
+│   └── README.md                                               # Detailed dataset guide & retrieval commands
+├── fig/                                                        # Publication-quality figures (PNG & vector PDF)
 │   ├── Fig_1_v2.png                                            # Figure 1: Methodological pipeline
-│   ├── Fig_2.png                                               # Figure 2: PPanGGOLiN pangenome partitions
+│   ├── Fig_2.png / Fig_2.pdf                                   # Figure 2: PPanGGOLiN pangenome partitions
 │   └── Fig_3_v2.png                                            # Figure 3: Core phylogeny & heatmap
-├── sup/                                                        # Supplementary tables and iTOL trees
-│   ├── Supplementary_Table_1_MAG_Metrics.csv                   # CheckM quality metrics for all 219 MAGs
+├── sup/                                                        # Supplementary tables, figures & iTOL trees
+│   ├── Supplementary_Table_1_MAG_Metrics.csv                   # CheckM quality metrics for analyzed MAGs
 │   ├── Final_annotated_lifestyle_genes_filtered.csv            # Statistical biomarker enrichment results
 │   ├── m_smithii_persistent_tree.nhx                           # FastTree Newick core phylogenetic tree
-│   ├── itol_color_strip.txt                                    # iTOL cohort color strip annotations
-│   ├── itol_heatmap.txt                                        # iTOL presence/absence matrix overlay
-│   ├── Supp_Fig_1_PCoA.png                                     # Supplementary Figure 1: PCoA ordination
-│   └── Supp_Fig_2_MAG_Quality.png                              # Supplementary Figure 2: CheckM quality
+│   ├── itol_color_strip.txt / itol_heatmap.txt                 # iTOL cohort & matrix tree annotations
+│   ├── Supp_Fig_1_PCoA.png / Supp_Fig_1_PCoA.pdf               # Supplementary Figure 1: PCoA ordination
+│   └── Supp_Fig_2_MAG_Quality.png / Supp_Fig_2_MAG_Quality.pdf # Supplementary Figure 2: CheckM quality
 ├── m-smithii-lifestyle-pangenome.ipynb                         # Interactive end-to-end Jupyter Notebook
 ├── README.md                                                   # Comprehensive project documentation
 ```
