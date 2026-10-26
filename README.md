@@ -216,7 +216,7 @@ conda activate m_smithii
 jupyter notebook m-smithii-lifestyle-pangenome.ipynb
 ```
 
-### 7.3 External Raw Reference Dumps & Assemblies (Optional)
+### 7.3 External Raw Reference Dumps & Assemblies
 Curated metadata subsets and the gene presence/absence matrix (`data/m_smithii_matrix/matrix.csv`) are bundled directly with the repository for instant analysis. Raw reference archives exceeding GitHub's 100 MB limit can be retrieved on demand:
 
 ```bash
@@ -229,7 +229,7 @@ awk -F '\t' '{print $20}' data/industrialized_m_smithii.tsv | xargs -n 1 wget -P
 awk -F '\t' '{print $20}' data/non_industrialized_m_smithii.tsv | xargs -n 1 wget -P data/genomes/non_industrialized/
 ```
 
-### 7.4 Interactive Phylogenomic Rendering (iTOL)
+### 7.4 Interactive Phylogenomic Rendering
 1. Navigate to the [Interactive Tree Of Life (iTOL)](https://itol.embl.de/).
 2. Upload the tree file: [`sup/m_smithii_persistent_tree.nhx`](file:///sup/m_smithii_persistent_tree.nhx).
 3. Drag and drop [`sup/itol_color_strip.txt`](file:///sup/itol_color_strip.txt) to annotate host lifestyle cohorts (Red: Industrialized, Blue: Non-Industrialized).
