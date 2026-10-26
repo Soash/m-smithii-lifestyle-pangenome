@@ -1,12 +1,12 @@
 # Host Industrialization Drives Dietary-Dependent Structural Variation and Gene Shedding in the Human Gut Archaeon *Methanobrevibacter smithii*
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-ZKFKmX9j_sWk19xfGzZq70B_CoDLOGp?usp=drive_link)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Soash/m-smithii-lifestyle-pangenome)
-[![Dataset](https://img.shields.io/badge/UHGG-v2.0.2-green)](https://www.ebi.ac.uk/metagenomics/)
-
 **Author(s):** Md Abu Sadat Soash  
 *Department of Genetic Engineering and Biotechnology*<br>
 *Shahjalal University of Science and Technology, Sylhet, Bangladesh*
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-ZKFKmX9j_sWk19xfGzZq70B_CoDLOGp?usp=drive_link)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Soash/m-smithii-lifestyle-pangenome)
+[![Dataset](https://img.shields.io/badge/UHGG-v2.0.2-green)](https://www.ebi.ac.uk/metagenomics/)
 
 ---
 
