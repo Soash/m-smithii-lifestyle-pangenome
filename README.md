@@ -177,8 +177,7 @@ m-smithii-lifestyle-pangenome/
 │   ├── lifestyle_specific_genes.csv                            # Statistical gene association table
 │   ├── FINAL_annotated_lifestyle_genes_filtered.csv            # High-confidence lifestyle genes (FDR q < 0.05)
 │   ├── m_smithii_matrix/matrix.csv                             # Gene presence/absence matrix (n=221)
-│   ├── m_smithii_pangenome_out/partitions/                     # PPanGGOLiN core, shell & cloud gene sets
-│   └── README.md                                               # Detailed dataset guide & retrieval commands
+│   └── m_smithii_pangenome_out/partitions/                     # PPanGGOLiN core, shell & cloud gene sets
 ├── fig/                                                        # Publication-quality figures (PNG & vector PDF)
 │   ├── Fig_1_v2.png                                            # Figure 1: Methodological pipeline
 │   ├── Fig_2.png / Fig_2.pdf                                   # Figure 2: PPanGGOLiN pangenome partitions
@@ -217,7 +216,20 @@ conda activate m_smithii
 jupyter notebook m-smithii-lifestyle-pangenome.ipynb
 ```
 
-### 7.3 Interactive Phylogenomic Rendering (iTOL)
+### 7.3 External Raw Reference Dumps & Assemblies (Optional)
+Curated metadata subsets and the gene presence/absence matrix (`data/m_smithii_matrix/matrix.csv`) are bundled directly with the repository for instant analysis. Raw reference archives exceeding GitHub's 100 MB limit can be retrieved on demand:
+
+```bash
+# 1. Download complete MGnify human gut catalog v2.0.2 metadata dump (110 MB)
+wget -P data/ https://ftp.ebi.ac.uk/pub/databases/metagenomics/mgnify_genomes/human-gut/v2.0.2/genomes-all_metadata.tsv
+
+# 2. Download raw GFF assemblies for all 221 MAGs (476 MB)
+mkdir -p data/genomes/industrialized data/genomes/non_industrialized
+awk -F '\t' '{print $20}' data/industrialized_m_smithii.tsv | xargs -n 1 wget -P data/genomes/industrialized/
+awk -F '\t' '{print $20}' data/non_industrialized_m_smithii.tsv | xargs -n 1 wget -P data/genomes/non_industrialized/
+```
+
+### 7.4 Interactive Phylogenomic Rendering (iTOL)
 1. Navigate to the [Interactive Tree Of Life (iTOL)](https://itol.embl.de/).
 2. Upload the tree file: [`sup/m_smithii_persistent_tree.nhx`](file:///sup/m_smithii_persistent_tree.nhx).
 3. Drag and drop [`sup/itol_color_strip.txt`](file:///sup/itol_color_strip.txt) to annotate host lifestyle cohorts (Red: Industrialized, Blue: Non-Industrialized).
