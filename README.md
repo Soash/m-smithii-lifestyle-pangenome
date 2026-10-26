@@ -4,10 +4,9 @@
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Soash/m-smithii-lifestyle-pangenome)
 [![Dataset](https://img.shields.io/badge/UHGG-v2.0.2-green)](https://www.ebi.ac.uk/metagenomics/)
 
-**Md Abu Sadat Soash**  
-*Department of Genetic Engineering and Biotechnology* <br>
-*Shahjalal University of Science and Technology, Sylhet, Bangladesh*  
-*Email:* [soash.sadat@gmail.com](mailto:soash.sadat@gmail.com)
+**Author(s):** Md Abu Sadat Soash  
+*Department of Genetic Engineering and Biotechnology*<br>
+*Shahjalal University of Science and Technology, Sylhet, Bangladesh*
 
 ---
 
